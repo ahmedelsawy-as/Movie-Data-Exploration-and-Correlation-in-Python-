@@ -8,4 +8,4 @@ Download Data from [here](https://www.kaggle.com/danielgrijalvas/movies).
 
 •	Created 5 different visualizations to investigate the correlation between variables.
 
-•	Obtained useful insights, such as Budget and votes have highest correlation to gross.
+•	Obtained useful insights, such as movie budget and votes have highest correlation to movie gross earnings.
